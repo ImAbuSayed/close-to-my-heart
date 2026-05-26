@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Close To My Heart
+
+This log tracks the cryptographic history and versioning for the song **Close To My Heart** (close-to-my-heart).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T06:40:51.577564 | `v1` | `44fb6e8f20bb9f96c3ae3973698ea4d24284afe63115fe62675cc24083bba9d3` | `890eb5a53cce5a2d9face6b98f0069052968c975cec6fa9799c74b5294aad82e` | `2026-05-26_close-to-my-heart-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
