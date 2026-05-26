@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/close-to-my-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Close To My Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-to-my-heart/) |
+| **Get License** | [Music Rights & Licensing for Close To My Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-to-my-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I want you closer than the midnight air
+> I feel the fire when you're standing there
+> We've got a rhythm that we just can't fight
+> I'm gonna pull you to my chest tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
